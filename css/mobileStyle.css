@@ -1,0 +1,58 @@
+@charset "UTF-8";
+
+@media only screen and (max-width: 700px) {
+    body {
+        padding: 25px 30px 50px 30px;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    body {
+        padding: 25px 10px 50px 10px;
+    }
+
+    #addTask {
+        width: 380px;
+    }
+
+    #taskInput {
+        width: 230px;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    #addTask {
+        width: 350px;
+        padding: 20px 5px;
+    }
+
+    #content {
+        min-width: 250px;
+        max-width: 300px;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    header {
+        font-size: 1em;
+    }
+
+    #addTask {
+        max-width: 300px;
+        padding: 20px 0;
+    }
+
+    #taskInput, #addButton {
+        font-size: 15px;
+        width: 180px;
+    }
+
+    #addButton {
+        width: 80px;
+    }
+
+    #content {
+        min-width: 230px;
+        max-width: 280px;
+    }
+}
