@@ -1,5 +1,12 @@
-To Do List
+# ✅ Lista de Tarefas
 
-<p>Lista de tarefas feita com JS, HTML e CSS</p>
+Site de uma lista de tarefas simples, feito com JavaScript, HTML e CSS.
 
-<a href="https://lucaskauaa.github.io/to-do-list/html/index.html" target="blank">Deploy</a>
+## ⚙️ Funcionalidades
+
+1. Adicionar tarefas a lista
+2. Marcar como feito
+3. Excluir tarefa
+4. Troca de temas 
+5. Responsividade
+
